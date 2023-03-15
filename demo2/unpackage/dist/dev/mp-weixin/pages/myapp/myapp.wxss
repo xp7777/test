@@ -1,0 +1,22 @@
+
+.elTable.data-v-0db54df2{
+  border: 1px solid black;
+}
+._h1.data-v-0db54df2, ._h2.data-v-0db54df2 {
+  font-weight: normal;
+}
+._ul.data-v-0db54df2 {
+  list-style-type: none;
+  padding: 0;
+}
+._li.data-v-0db54df2 {
+  display: inline-block;
+  margin: 0 10px;
+}
+._a.data-v-0db54df2 {
+  color: #42b983;
+}
+.my-button.data-v-0db54df2 { 
+	display: flex; align-items: center;
+} 
+

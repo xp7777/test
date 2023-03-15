@@ -1,0 +1,51 @@
+// {
+// 	"pages": [
+// 	  {
+// 	    "path": "pages/myapp/myapp",
+// 	    "style": {
+// 	      "navigationBarTitleText": "数据查询页面"
+// 	    },
+// 	  },
+// 	  {
+// 	    "path": "pages/myapp/Ssqx",
+// 	    "style": {
+// 	      "navigationBarTitleText": "数据查询页面2"
+// 	    }
+// 	  }
+// 	],
+// 	"globalStyle": {
+// 		"navigationBarTextStyle": "black",
+// 		"navigationBarTitleText": "uni-app",
+// 		"navigationBarBackgroundColor": "#F8F8F8",
+// 		"backgroundColor": "#F8F8F8"
+// 	},
+// 	"uniIdRouter": {}
+// }
+
+{
+  "pages": [
+    {
+      "path": "pages/myapp/myapp",
+      "style": {
+        "navigationBarTitleText": "数据查询页面"
+      }
+    },
+    {
+      "path": "pages/myapp/Ssqx",
+      "style": {
+        "navigationBarTitleText": "数据查询页面2"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {
+    "van-table": "/vant-weapp/dist/table/index",
+    "van-button": "/vant-weapp/dist/button/index"
+  },
+  "uniIdRouter": {}
+}

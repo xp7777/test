@@ -1,0 +1,19 @@
+
+.elTable.data-v-439ca38c{
+  border: 1px solid black;
+}
+._h1.data-v-439ca38c, ._h2.data-v-439ca38c {
+  font-weight: normal;
+}
+._ul.data-v-439ca38c {
+  list-style-type: none;
+  padding: 0;
+}
+._li.data-v-439ca38c {
+  display: inline-block;
+  margin: 0 10px;
+}
+._a.data-v-439ca38c {
+  color: #42b983;
+}
+

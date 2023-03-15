@@ -1,0 +1,23 @@
+{
+  "name": "111",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^6.7.3",
+    "element-ui": "^2.15.13",
+    "fibers": "^5.0.3",
+    "sass": "^1.59.3",
+    "vant": "^4.1.0",
+    "vant-weapp": "^0.5.29",
+    "weui-miniprogram": "^1.2.7"
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.0.0",
+    "postcss-loader": "^7.0.2",
+    "postcss-pxtorem": "^4.0.0"
+  }
+}
